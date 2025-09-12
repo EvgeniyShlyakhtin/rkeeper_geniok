@@ -1,32 +1,26 @@
 {
   "service_names": {
     "Sdbsrv64: SDBSERV1": {
-      "current_version": "7.5.0.1",
       "required_version": "7.5.0.2",
       "url": "https://files-rkcloud.ucs.ru/d/65231391cff842d49a1a/files/?p=/rk7/Sdbsrv64/latest.exe&dl=1"
     },
     "Transport": {
-      "current_version": "7.5.0.1",
       "required_version": "7.5.0.2",
       "url": "https://files-rkcloud.ucs.ru/d/65231391cff842d49a1a/files/?p=/rk7/Transport/latest.exe&dl=1"
     },
     "WsAgent": {
-      "current_version": "7.5.0.1",
       "required_version": "7.5.0.2",
       "url": "https://files-rkcloud.ucs.ru/d/65231391cff842d49a1a/files/?p=/rk7/WsAgent/latest.exe&dl=1"
     },
     "rkDExchSrv_default": {
-      "current_version": "7.5.0.1",
       "required_version": "7.5.0.2",
       "url": "https://files-rkcloud.ucs.ru/d/65231391cff842d49a1a/files/?p=/rk7/RkDExch/latest.exe&dl=1"
     },
     "RKeeperRefServer_default": {
-      "current_version": "7.5.0.1",
       "required_version": "7.5.0.2",
       "url": "https://files-rkcloud.ucs.ru/d/65231391cff842d49a1a/files/?p=/rk7/RKeeperRefServer/latest.exe&dl=1"
     },
     "RKeeperMidServer_default": {
-      "current_version": "7.5.0.1",
       "required_version": "latest",
       "url": "https://files-rkcloud.ucs.ru/d/65231391cff842d49a1a/files/?p=/rk7/RKeeperMidServer/latest.exe&dl=1"
     }
